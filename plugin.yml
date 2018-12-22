@@ -1,0 +1,15 @@
+name: MineClash
+main: com.beta.mineclash.MineClash
+version: Alpha
+author: Cow
+commands:
+    build:
+        description: Choose a structure to build!
+    mineclash:
+        description: Start command for all the commands!
+    assign:
+        description: Distribute teams.
+    debug:
+        description: Debug command.
+    mines:
+        description: Closes the mine entrences.
